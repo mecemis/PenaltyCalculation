@@ -1,0 +1,85 @@
+﻿@model PenaltyForCalculateDto
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="col-md-8 mt-5">
+    <div class="card mx-auto">
+        <div class="card-header">
+            <h3>Calculate Your Penalty</h3>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>Check-Out Date</label>
+                        </div>
+                        <div class="col-md-8">
+                            <input type="date" id="checkIn" class="form-control" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>Return Date</label>
+                        </div>
+                        <div class="col-md-8">
+                            <input type="date" id="checkOut" class="form-control" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row mt-2">
+                @Html.DropDownListFor(c => c.CountryId, Model.CountryList,
+                              new { @class = "form-control", @required = true, @id = "country" })
+
+            </div>
+            <div class="row justify-content-end mt-4">
+                <div class="col-md-3">
+                    <button class="btn btn-secondary" type="button" id="calculate">Calculate</button>
+                </div>
+
+            </div>
+        </div>
+        <div id="footer" class="card-footer">
+
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $('#calculate').on('click', function () {
+            var penalty = $('#footer');
+            var checkOutDate = $('#checkIn').val();
+            var returnDate = $('#checkOut').val();
+            var countryId = $('#country').val();
+            penalty.html('');
+
+            $.ajax({
+                method: 'POST',
+                url: '/Home/CalculatePenalty',
+                dataType: 'json',
+                async: true,
+                data: { countryId, checkOutDate, returnDate },
+                success: function (data) {
+                    console.log(data.data);
+                    if (data.success) {
+                        penalty.append('<label>You must pay: ' + parseFloat(data.data.penalty).toFixed(2) + ' ' + data.data.currency + '</label><br/>');
+                        penalty.append('<label>Total business days: ' + data.data.totalBusinessDays + '</label>');
+                    } else {
+                        penalty.html('<label>' + data.message + '</label>');
+                    }
+                },
+                error: function (error) {
+                    penalty.html(error.responseJSON.Message);
+                }
+            })
+        });
+    </script>
+}

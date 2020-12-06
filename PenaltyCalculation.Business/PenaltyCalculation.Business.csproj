@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="5.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PenaltyCalculation.Core\PenaltyCalculation.Core.csproj" />
+    <ProjectReference Include="..\PenaltyCalculation.DataAccess\PenaltyCalculation.DataAccess.csproj" />
+    <ProjectReference Include="..\PenaltyCalculation.Entity\PenaltyCalculation.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

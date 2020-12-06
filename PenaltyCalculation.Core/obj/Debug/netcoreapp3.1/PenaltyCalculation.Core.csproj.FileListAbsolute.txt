@@ -1,0 +1,9 @@
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.deps.json
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.AssemblyInfoInputs.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.AssemblyInfo.cs
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.csprojAssemblyReference.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Core\obj\Debug\netcoreapp3.1\PenaltyCalculation.Core.csproj.CoreCompileInputs.cache

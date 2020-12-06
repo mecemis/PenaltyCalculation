@@ -1,0 +1,14 @@
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.deps.json
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.Entity.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.Entity.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.csprojAssemblyReference.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.AssemblyInfo.cs
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.csproj.CopyComplete
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.DataAccess\obj\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.pdb

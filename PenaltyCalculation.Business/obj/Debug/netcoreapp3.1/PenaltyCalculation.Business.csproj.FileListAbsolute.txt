@@ -1,0 +1,16 @@
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Business.deps.json
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Business.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Business.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Entity.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Core.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.DataAccess.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\bin\Debug\netcoreapp3.1\PenaltyCalculation.Entity.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.csprojAssemblyReference.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.AssemblyInfoInputs.cache
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.AssemblyInfo.cs
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.csproj.CopyComplete
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.dll
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.pdb
+C:\Users\mustafasoy\source\repos\PenaltyCalculation\PenaltyCalculation.Business\obj\Debug\netcoreapp3.1\PenaltyCalculation.Business.csproj.CoreCompileInputs.cache
